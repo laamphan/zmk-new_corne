@@ -1,4 +1,4 @@
-layout: {qmk_keyboard: corne_rotated, layout_name: LAYOUT_split_3x6_3}
+layout: {zmk_keyboard: corne}
 layers:
   QWERTY:
   - $$mdi:keyboard-tab$$
@@ -160,7 +160,7 @@ layers:
   - EP ON
   - OUT USB
   - OUT BLE
-  - BT CLR ALL
+  - $$mdi:bluetooth-off$$
   - {t: '$$mdi:transfer$$', type: trans}
   - F4
   - F5
