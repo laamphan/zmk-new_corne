@@ -109,7 +109,7 @@
         layer_3 {
             display-name = "Fn";
             bindings = <
-&kp PRINTSCREEN &kp F1           &kp F2          &kp F3       &kp F10    &rgb_ug RGB_OFF    &msc SCRL_UP     &rgb_ug RGB_ON     &ext_power EP_OFF  &ext_power EP_ON  &out OUT_USB      &out OUT_BLE      &bt BT_CLR_ALL
+&kp PRINTSCREEN &kp F1           &kp F2          &kp F3       &kp F10    &rgb_ug RGB_OFF    &msc SCRL_UP     &rgb_ug RGB_ON     &ext_power EP_OFF  &ext_power EP_ON  &out OUT_USB      &out OUT_BLE      &bt BT_CLR
 &trans          &kp F4           &kp F5          &kp F6       &kp F11    &bootloader        &msc SCRL_DOWN   &bootloader        &bt BT_SEL 0       &bt BT_SEL 1      &bt BT_SEL 2      &bt BT_SEL 3      &kp PAUSE_BREAK
 &trans          &kp F7           &kp F8          &kp F9       &kp F12    &rgb_ug RGB_EFF    &msc SCRL_LEFT   &rgb_ug RGB_EFR    &rgb_ug RGB_SPI    &rgb_ug RGB_BRI   &rgb_ug RGB_BRD   &sys_reset        &kp SCROLLLOCK
                                  &trans          &trans       &trans     &trans             &msc SCRL_RIGHT  &trans             &trans             &trans
