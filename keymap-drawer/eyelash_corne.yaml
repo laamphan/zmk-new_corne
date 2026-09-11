@@ -95,7 +95,7 @@ layers:
   - Fn
   - $$mdi:apple-keyboard-option$$
   - $$mdi:keyboard-space$$
-  - {t: '$$mdi:keyboard-return$$', h: SYMBOL}
+  - {t: '$$mdi:keyboard-return$$', type: enter}
   - LGUI
   - Fn
   NUMBER:
