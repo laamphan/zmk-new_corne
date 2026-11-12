@@ -126,7 +126,7 @@
         fn_layer {
             display-name = "Fn";
             bindings = <
-&kp ESC          &kp F1  &kp F2  &kp F3  &kp F10  &bootloader                                     &mmv MOVE_UP                     &bootloader      &ext_power EP_OFF  &ext_power EP_ON  &out OUT_USB     &out OUT_BLE    &bt BT_CLR_ALL
+&kp DEL          &kp F1  &kp F2  &kp F3  &kp F10  &bootloader                                     &mmv MOVE_UP                     &bootloader      &ext_power EP_OFF  &ext_power EP_ON  &out OUT_USB     &out OUT_BLE    &bt BT_CLR_ALL
 &kp PRINTSCREEN  &kp F4  &kp F5  &kp F6  &kp F11  &sys_reset                      &mmv MOVE_LEFT  &none           &mmv MOVE_RIGHT  &sys_reset       &bt BT_SEL 0       &bt BT_SEL 1      &bt BT_SEL 2     &bt BT_SEL 3    &bt BT_SEL 4
 &trans           &kp F7  &kp F8  &kp F9  &kp F12  &studio_unlock  &kp C_MUTE                      &mmv MOVE_DOWN                   &rgb_ug RGB_OFF  &rgb_ug RGB_ON     &rgb_ug RGB_EFF   &rgb_ug RGB_EFR  &kp SCROLLLOCK  &kp PAUSE_BREAK
                                  &trans  &trans   &trans                                                                           &trans           &trans             &trans
