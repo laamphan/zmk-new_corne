@@ -114,7 +114,7 @@
         raise_layer {
             display-name = "SYMBOL";
             bindings = <
-&kp GRAVE  &trans  &trans     &trans     &trans     &trans                                     &msc SCRL_UP                     &trans     &trans     &kp LPAR  &kp RPAR  &kp PIPE  &kp BSPC
+&kp GRAVE  &trans  &trans     &trans     &trans     &trans                                     &msc SCRL_UP                     &trans     &trans     &kp LPAR  &kp RPAR  &kp PIPE  &kp DEL
 &trans     &trans  &mkp LCLK  &mkp MCLK  &mkp RCLK  &mkp MB4                   &msc SCRL_LEFT  &none           &msc SCRL_RIGHT  &kp MINUS  &kp EQUAL  &kp LBKT  &kp RBKT  &kp BSLH  &trans
 &trans     &trans  &trans     &none      &none      &mkp MB5   &trans                          &msc SCRL_DOWN                   &kp UNDER  &kp PLUS   &kp LBRC  &kp RBRC  &trans    &trans
                               &trans     &trans     &kp SPACE                                                                   &trans     &trans     &trans
